@@ -1,0 +1,14 @@
+{
+    "name": "My Curriculum Vitae",
+    "short_name": "My CV",
+    "icons": [{
+        "src": "img/Icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+  }
